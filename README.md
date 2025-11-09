@@ -2,7 +2,7 @@
 
 ## Group Members
 
-Kaung Myat Kyaw {KM} (Own most of the slide pages)<br>
+Kaung Myat Kyaw {KM} (Own most of the slide pages) https://www.kaggle.com/kaungmyatkyaw<br>
 Poopa Kaewbuapan
 
 ![First page](logo.png)
