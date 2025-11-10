@@ -1,4 +1,4 @@
-# ![Utilizing Multi-Modal Data to Enhance Epileptiform Classification by Deep Learning Model via Spatio-Temporal Reasoning (Competition Page)](https://www.kaggle.com/competitions/harmful-brain-activity-classification)
+# ![Utilizing Multi-Modal Data to Enhance Epileptiform Classification by Deep Learning Model via Spatio-Temporal Reasoning -Competition Page-](https://www.kaggle.com/competitions/harmful-brain-activity-classification)
 
 Thanks Harvard Medical School (HMS) for this competition and nice challenge~
 
@@ -9,7 +9,7 @@ Poopa Kaewbuapan
 
 ![First page](logo.png)
 
-![Best Model (Public Leaderboard 0.32)](https://www.kaggle.com/code/escapelikeawind/two-model-ensemble-lb-0-32)
+![Best Model - Public Leaderboard 0.32](https://www.kaggle.com/code/escapelikeawind/two-model-ensemble-lb-0-32)
 
 ## Kaggle@IC2
 
